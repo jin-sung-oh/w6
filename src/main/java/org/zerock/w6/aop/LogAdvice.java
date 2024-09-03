@@ -31,7 +31,6 @@ public class LogAdvice {
 
      log.info("TIME: " + (end - start));
 
-
      return result;
     }
 }
